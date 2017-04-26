@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RateChart</string>
+    <string name="progress_text">Loading... Please wait</string>
+    <string name="something_went_wrong">Could not complete the action, something went wrong, please try later</string>
+    <string name="no_internet">Please check internet connection</string>
+    <string name="currency">Currency:</string>
+    <string name="date">Date:</string>
+    <string name="usd_eur">USD/EUR</string>
+    <string name="token">0E37B2BA116640CCA8AF2FE205B402BD</string>
+    <string name="symbol">EURUSD</string>
+    <string name="low_ex">Lowest currency exchange</string>
+    <string name="high_ex">Highest currency exchange</string>
+    <string name="api_url">http://globalcurrencies.xignite.com/xGlobalCurrencies.json/GetLondonHistoricalRatesRange</string>
+</resources>
